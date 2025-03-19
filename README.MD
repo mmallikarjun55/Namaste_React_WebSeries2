@@ -1,6 +1,6 @@
 # Namaste React Episode2 Igniting The App
 
-## Parcel Bundler Features or Functionalities 
+## Parcel Bundler Features or Functionalities
 
 -- Zero Configuration Tool
 -- Support for Multiple File Types
