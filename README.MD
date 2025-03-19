@@ -2,49 +2,49 @@
 
 ## Parcel Bundler Features or Functionalities
 
--> Zero Configuration Tool
--> Support for Multiple File Types
--> Automatic Dependency Management
--> Hot Module Replacement(HMR)
--> Automatic Compiling and Transpilation
--> Built-in CSS Support
--> Code Splitting
--> Tree Shaking
--> Minification of Assets
--> Built-in Image Optimization
--> Environment Variables
--> Multi-Page Application Support
--> Caching and Incremental Builds
--> Cross-Browser Compatibility
--> Plugins and Extensibility
--> Service Worker Support for Progressive Web Applications
--> HTTPS and Development Server
--> Faster Builds With Parallelization
--> Custom Asset Types and Transformers
--> Build Analysis
--> Output Hashing and Cache Bustling
--> CLI Support
--> Support for URL Imports
--> Built-in TypeScript Support
--> Build Target Customization
--> Multi-Entry Point Builds
--> Compatibility With WebAssembly
--> Automatic Polyfill Management
--> Lazy Loading
--> CSS in JS Support
--> Support for JSON Imports
--> Module Resolution for Node_Modules
--> Watch Mode for Asset Changes
--> Automatic Babel Polyfill Injection
--> Built-in Linting and Code Formatting
--> Debugging Support for External Dependencies
--> Node.js Backend Integration
--> Customizable Build Outputs
--> Support for Frameworks and Libraries
--> Error Diagnostics
--> Content Hashing
--> Differential Bundling
--> Community and Documentation
--> Performance Benchmarks
--> Transpilation
--> Scope Hoisting
+- Zero Configuration Tool
+- Support for Multiple File Types
+- Automatic Dependency Management
+- Hot Module Replacement(HMR)
+- Automatic Compiling and Transpilation
+- Built-in CSS Support
+- Code Splitting
+- Tree Shaking
+- Minification of Assets
+- Built-in Image Optimization
+- Environment Variables
+- Multi-Page Application Support
+- Caching and Incremental Builds
+- Cross-Browser Compatibility
+- Plugins and Extensibility
+- Service Worker Support for Progressive Web Applications
+- HTTPS and Development Server
+- Faster Builds With Parallelization
+- Custom Asset Types and Transformers
+- Build Analysis
+- Output Hashing and Cache Bustling
+- CLI Support
+- Support for URL Imports
+- Built-in TypeScript Support
+- Build Target Customization
+- Multi-Entry Point Builds
+- Compatibility With WebAssembly
+- Automatic Polyfill Management
+- Lazy Loading
+- CSS in JS Support
+- Support for JSON Imports
+- Module Resolution for Node_Modules
+- Watch Mode for Asset Changes
+- Automatic Babel Polyfill Injection
+- Built-in Linting and Code Formatting
+- Debugging Support for External Dependencies
+- Node.js Backend Integration
+- Customizable Build Outputs
+- Support for Frameworks and Libraries
+- Error Diagnostics
+- Content Hashing
+- Differential Bundling
+- Community and Documentation
+- Performance Benchmarks
+- Transpilation
+- Scope Hoisting
